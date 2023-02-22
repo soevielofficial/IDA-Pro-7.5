@@ -4,6 +4,8 @@
 
 <p align="center">
   <a href="https://github.com/soevielofficial/IDA-Pro-7.5"><img src="https://img.shields.io/github/stars/soevielofficial/IDA-Pro-7.5?style=for-the-badge"></a>
+  <a href="https://github.com/soevielofficial/IDA-Pro-7.5"><img src="https://img.shields.io/github/forks/soevielofficial/IDA-Pro-7.5?style=for-the-badge"></a>
+  <a href="https://github.com/soevielofficial/IDA-Pro-7.5"><img src="https://img.shields.io/github/watchers/soevielofficial/IDA-Pro-7.5?style=for-the-badge"></a>
 </p>
 <hr>
 
